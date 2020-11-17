@@ -26,7 +26,7 @@ The 1st part of my project utilized Corex to extract the different themes discus
 
 - **Final Remarks -** I found this so interesting because I think one of the reasons this show was so popular was that it really depicted the lives people transitioning from their mid-20's to mid-30's; going from dating around to discussing marriage and kids. 
 
-![Friends characters](/Images/Joey_words.png)
+![Friends characters](/Images/Joey-words.png)
 #### 2. Character Analysis
 I wanted to see if Corex was able to distinguish the different characters of the show.  Looking at some of the associated words, it is clear that Corex did quite a good job at this. 
 
