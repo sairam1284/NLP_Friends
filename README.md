@@ -28,6 +28,7 @@ The 1st part of my project utilized Corex to extract the different themes discus
 ![Friends Themes](/Images/Themes.png)
 --- 
 #### 2. Character Analysis
+
 I wanted to see if Corex was able to distinguish the different characters of the show.  Looking at some of the associated words, it is clear that Corex did quite a good job at this. 
 ![Friends characters](/Images/Joey-words.png)
 --- 
